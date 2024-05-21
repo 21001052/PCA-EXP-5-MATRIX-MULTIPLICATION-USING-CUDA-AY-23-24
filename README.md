@@ -1,11 +1,5 @@
 # PCA-EXP-5-MATRIX-MULTIPLICATION-USING-CUDA-AY-23-24
 
-<h3>NAME: A joans jay authers </h3>
-<h3>REGISTER NO: 212221240019</h3>
-<h3>EX.NO: 5</h3>
-<h3>DATE: 23.04.2024</h3>
-<h1> <align=center> MATRIX MULTIPLICATION USING CUDA </h3>
-  Implement Matrix Multiplication using GPU.</h3>
 
 ## AIM:
 To perform Matrix Multiplication using CUDA and check its performance with nvprof.
